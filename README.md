@@ -14,15 +14,6 @@ Este é um projeto simples de implementação do jogo da velha usando tecnologia
 4. **Verificação de Empate:** Identificar quando o jogo termina em empate.
 5. **Reiniciar o Jogo:** Permitir que os jogadores reiniciem o jogo ao final.
 
-## Estrutura do Projeto
-
-```plaintext
-jogo-da-velha/
-│
-├── index.html           # Página principal do jogo
-├── style.css            # Estilos CSS para a aparência do jogo
-├── script.js            # Lógica do jogo em JavaScript
-└── README.md            # Documentação do projeto
 
 ## Instalação e Execução
 
