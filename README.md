@@ -1,5 +1,3 @@
-# Jogo_da_velha
-
 # Jogo da Velha em HTML, CSS e JavaScript
 
 ## Visão Geral do Projeto
@@ -20,7 +18,7 @@ Este é um projeto simples de implementação do jogo da velha usando tecnologia
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/jogo-da-velha.git
+   git@github.com:claudioares/Jogo_da_velha.git
 
 Abra o arquivo index.html em um navegador web.
 
