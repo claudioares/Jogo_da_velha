@@ -33,3 +33,12 @@ jogo-da-velha/
 
 Abra o arquivo index.html em um navegador web.
 
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver ideias para melhorar o jogo, sinta-se à vontade para [criar uma issue](https://github.com/seu-usuario/jogo-da-velha/issues) ou enviar um pull request.
+
+## Licença
+
+Este projeto é distribuído sob a [licença MIT](LICENSE). Consulte o arquivo `LICENSE` para obter mais informações.
+
